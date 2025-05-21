@@ -1,6 +1,6 @@
 # Hi, I'm Nathan Cannell 👋
 
-I'm a recent graduate from the University of Washington, where I earned my degree in Electrical and Computer Engineering. My passion lies at the intersection of hardware and software, especially in the world of Embedded Systems, hardware design and AI.
+I'm a recent graduate from the University of Washington, where I earned my degree in Electrical and Computer Engineering. My passion lies at the intersection of hardware and software, especially in the world of embedded systems, hardware design and AI.
 
 ---
 
