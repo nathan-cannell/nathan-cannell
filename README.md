@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nathan Cannell 👋
 
-<!--
-**nathan-cannell/nathan-cannell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate from the University of Washington, where I earned my degree in Electrical and Computer Engineering. My passion lies at the intersection of hardware and software, especially in the world of Embedded Systems, hardware design and AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Education:** B.S. in Electrical and Computer Engineering, University of Washington
+- 🛠️ **Skills:** Python, C, C++, Java, SystemVerilog
+- 💡 **Interests:** Embedded systems, hardware design, AI
+
+---
+
+## 🌟 Notable Projects
+
+- [RISC-V Pipelined Processor](https://github.com/nathan-cannell/RISCV_Pipelined_Processor/tree/main)  
+  _A pipelined RISC-V processor designed from the ground up, with a focus on performance and modularity._
+
+- [AI Assisted Navigation Headgear](https://github.com/nathan-cannell/AI_assisted_navigation_headgear)  
+  _A wearable device leveraging AI to assist users with navigation, blending hardware and intelligent software._
+
+---
+
+## 🔭 Current Work
+
+- [AI Accelerator](https://github.com/nathan-cannell/AI_Accelerator)  
+  _Exploring efficient hardware architectures for accelerating AI workloads._
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nathan-cannell)
+
+---
+
+> _“Always learning, always building.”_
