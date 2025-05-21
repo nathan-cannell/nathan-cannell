@@ -8,7 +8,7 @@ I'm a recent graduate from the University of Washington, where I earned my degre
 
 - 🎓 **Education:** B.S. in Electrical and Computer Engineering, University of Washington
 - 🛠️ **Skills:** Python, C, C++, Java, SystemVerilog
-- 💡 **Interests:** Embedded systems, hardware design, AI
+- 💡 **Interests:** Embedded systems, Hardware design, Robotics, AI
 
 ---
 
