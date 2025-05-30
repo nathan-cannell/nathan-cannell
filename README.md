@@ -24,8 +24,8 @@ I'm a recent graduate from the University of Washington, where I earned my degre
 
 ## 🔭 Current Work
 
-- [AI Accelerator](https://github.com/nathan-cannell/AI_Accelerator)  
-  _Exploring efficient hardware architectures for accelerating AI workloads._
+- [AI Accelerator](https://github.com/AXLE-Accelerators)  
+  _AXLE Accelerators develops edge AI hardware for predictive maintenance in HVAC and industrial systems._
 
 ---
 
