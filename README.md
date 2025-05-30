@@ -22,9 +22,9 @@ I'm a recent graduate from the University of Washington, where I earned my degre
 
 ---
 
-## 🔭 Current Work
-
-- [AI Accelerator](https://github.com/AXLE-Accelerators)  
+## 🔭 Current Work 
+Founder
+- [AXLE Accelerators](https://github.com/AXLE-Accelerators)  
   _AXLE Accelerators develops edge AI hardware for predictive maintenance in HVAC and industrial systems._
 
 ---
