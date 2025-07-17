@@ -27,6 +27,8 @@ Founder
 - [AXLE Accelerators](https://github.com/AXLE-Accelerators)  
   _AXLE Accelerators develops edge AI hardware for predictive maintenance in HVAC and industrial systems._
 
+- [Investify](https://github.com/nathan-cannell/investment-research-ai)
+  _AI Investment portfolio analyzer._
 ---
 
 ## 📫 Connect with Me
