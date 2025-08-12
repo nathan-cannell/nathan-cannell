@@ -7,7 +7,7 @@ I'm a recent graduate from the University of Washington, where I earned my degre
 ## 🚀 About Me
 
 - 🎓 **Education:** B.S. in Electrical and Computer Engineering, University of Washington
-- 🛠️ **Skills:** Python, C, C++, Java, SystemVerilog, Rust
+- 🛠️ **Skills:** Python, C, C++, Java, SystemVerilog, ROS2, Rust
 - 💡 **Interests:** Embedded systems, Hardware design, Robotics, AI
 
 ---
