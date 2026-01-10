@@ -23,9 +23,7 @@ I'm a recent graduate from the University of Washington, where I earned my degre
 ---
 
 ## 🔭 Current Work 
-Founder
-- [AXLE Accelerators](https://github.com/AXLE-Accelerators)  
-  _AXLE Accelerators develops edge AI hardware for predictive maintenance in HVAC and industrial systems._
+- RTL-SDR Antenna Project 
 
 - [Investify](https://github.com/nathan-cannell/investment-research-ai)
   _AI Investment portfolio analyzer._
