@@ -13,7 +13,7 @@ I'm currently working as an Engineering Technician at Amazon Leo, where I work o
 ---
 ## 🔬 Research Experience
 
-- [Research Assistant] Arc Lab
+- Research Assistant @ ARC Lab
   _Contributed to FPGA architecture research at UW's ARC Lab, building simulation models and a Python API for hardware-software integration._
 
 - [Genomic Data Analyst work](https://github.com/rehlab)
