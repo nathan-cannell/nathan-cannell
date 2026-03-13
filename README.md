@@ -1,6 +1,6 @@
 # Hi, I'm Nathan Cannell 👋
 
-I'm a recent graduate from the University of Washington, where I earned my degree in Electrical and Computer Engineering. My passion lies at the intersection of hardware and software, especially in the world of embedded systems, hardware design and AI.
+I'm currently working as an Engineering Technician at Amazon Leo, where I work on phased-array antenna systems. My passion lies at the intersection of hardware and software — particularly embedded systems, hardware design, and AI for space applications.
 
 ---
 
@@ -11,6 +11,14 @@ I'm a recent graduate from the University of Washington, where I earned my degre
 - 💡 **Interests:** Embedded systems, Hardware design, Robotics, AI
 
 ---
+## 🔬 Research Experience
+
+- [Research Assistant] Arc Lab
+  _Contributed to FPGA architecture research at UW's ARC Lab, building simulation models and a Python API for hardware-software integration._
+
+- [Genomic Data Analyst work](https://github.com/rehlab)
+  _Single-cell analysis of 10M+ genomic retinal data points, contributing to research on treatments for blindness._
+
 
 ## 🌟 Notable Projects
 
@@ -20,6 +28,8 @@ I'm a recent graduate from the University of Washington, where I earned my degre
 - [AI Assisted Navigation Headgear](https://github.com/nathan-cannell/AI_assisted_navigation_headgear)  
   _A wearable device leveraging AI to assist users with navigation, blending hardware and intelligent software._
 
+- [Genomic Data Analyst work](https://www.rehlab.org/)
+  _Single-cell analysis of 10M+ genomic retinal data points, contributing to research on treatments for blindness._
 ---
 
 ## 🔭 Current Work 
